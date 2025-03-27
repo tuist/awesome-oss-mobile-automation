@@ -14,4 +14,13 @@ There is a lot happening around commoditizing automation for mobile devices thro
 
 ### macOS Environments
 
-- [Fugaci](https://github.com/macvmio/fugaci): Kubernetes-based system for serving ephemeral macOS virtual machines (VMs) 
+- [Fugaci](https://github.com/macvmio/fugaci): Kubernetes-based system for serving ephemeral macOS virtual machines (VMs)
+- [buildkansen](https://github.com/tramlinehq/buildkansen): Fast, pooled macOS runners for GitHub Actions 
+
+## Release management
+
+- [Tramline](https://github.com/tramlinehq/tramline): Release coordination and deployment platform, just for your mobile apps
+- [Macige](https://github.com/tramlinehq/macige): Mobile App CI workflow GEnerator: Android, iOS, Flutter, and React Native! 
+
+## Dev environment management
+- [Mise](https://github.com/jdx/mise): dev tools, env vars, task runner 
