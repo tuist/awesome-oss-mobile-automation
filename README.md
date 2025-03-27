@@ -23,4 +23,9 @@ There is a lot happening around commoditizing automation for mobile devices thro
 - [Macige](https://github.com/tramlinehq/macige): Mobile App CI workflow GEnerator: Android, iOS, Flutter, and React Native! 
 
 ## Dev environment management
-- [Mise](https://github.com/jdx/mise): dev tools, env vars, task runner 
+- [Mise](https://github.com/jdx/mise): dev tools, env vars, task runner
+
+## Automation DSLs and tools
+
+- [swift-sh](https://github.com/mxcl/swift-sh): Easily script with third-party Swift dependencies.
+- [Sake](https://github.com/kattouf/Sake): 🍶 Swift-based utility for managing project commands, inspired by Make. 
